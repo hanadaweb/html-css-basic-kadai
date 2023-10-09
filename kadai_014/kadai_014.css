@@ -1,6 +1,9 @@
+html{
+  font-size: 20px;
+}
+
 body{
   font-family:"Arial", "Meiryo", sans-serif ;
-  font-size: 1rem=20px;
   text-align: center;
 }
 
@@ -9,7 +12,6 @@ header{
 }
 h1{
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 3px 2px 2px gray;
