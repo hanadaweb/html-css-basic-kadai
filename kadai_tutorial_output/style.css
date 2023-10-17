@@ -26,6 +26,10 @@ header {
   font-size: 14px;
   padding-top: 15px;
 }
+#nav-pc > a {
+  text-decoration: none;
+  margin-left: 20px;
+}
 
 #nav-pc > a:link {
   color: #0d0d0d;
